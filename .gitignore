@@ -1,0 +1,9 @@
+includes/config.php
+uploads/products/*
+!uploads/products/.gitkeep
+storage/logs/*
+!storage/logs/.gitkeep
+storage/rate_limits/*
+!storage/rate_limits/.gitkeep
+.DS_Store
+*.log
